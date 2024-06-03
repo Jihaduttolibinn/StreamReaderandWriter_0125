@@ -37,4 +37,5 @@ int main()
 	infile.open("contohfile.txt");
 
 
+
 }
