@@ -40,7 +40,11 @@ int main()
 	//Jika file ada maka
 	if (infile.is_open())
 	{
+		//Melakukkan perulangan setiap baris
+		while (getline(infile, baris))
+		{
 
+		}
 	}
 
 
