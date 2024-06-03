@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StreamReaderandWriter_0125"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "loFileWithPath", "loFileWithPath\loFileWithPath.vcxproj", "{77EF0A55-4D9D-43ED-BB81-7F505B2B607A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "exeptionStandard", "exeptionStandard\exeptionStandard.vcxproj", "{6A53A1C3-52D1-4047-A245-EBDDA3541D5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{77EF0A55-4D9D-43ED-BB81-7F505B2B607A}.Release|x64.Build.0 = Release|x64
 		{77EF0A55-4D9D-43ED-BB81-7F505B2B607A}.Release|x86.ActiveCfg = Release|Win32
 		{77EF0A55-4D9D-43ED-BB81-7F505B2B607A}.Release|x86.Build.0 = Release|Win32
+		{6A53A1C3-52D1-4047-A245-EBDDA3541D5B}.Debug|x64.ActiveCfg = Debug|x64
+		{6A53A1C3-52D1-4047-A245-EBDDA3541D5B}.Debug|x64.Build.0 = Debug|x64
+		{6A53A1C3-52D1-4047-A245-EBDDA3541D5B}.Debug|x86.ActiveCfg = Debug|Win32
+		{6A53A1C3-52D1-4047-A245-EBDDA3541D5B}.Debug|x86.Build.0 = Debug|Win32
+		{6A53A1C3-52D1-4047-A245-EBDDA3541D5B}.Release|x64.ActiveCfg = Release|x64
+		{6A53A1C3-52D1-4047-A245-EBDDA3541D5B}.Release|x64.Build.0 = Release|x64
+		{6A53A1C3-52D1-4047-A245-EBDDA3541D5B}.Release|x86.ActiveCfg = Release|Win32
+		{6A53A1C3-52D1-4047-A245-EBDDA3541D5B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
